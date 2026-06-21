@@ -1,552 +1,99 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>I'm Anjalika Tharushee</title>
-    <style>
-        /* --- GitHub Dark Mode Theme Variables --- */
-        :root {
-            --bg-color: #0d1117;
-            --card-bg: #0d1117;
-            --border-color: #30363d;
-            --text-main: #c9d1d9;
-            --text-muted: #8b949e;
-            --accent-cyan: #00f2fe;
-            --accent-pink: #ff5e62;
-            --accent-magenta: #e91e63;
-            --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-        }
+<!-- HEADER SECTION -->
+<div align="center">
+  <img src="https://img.icons8.com/illustrations/external-pack-flat-symbols-tanah-basah/120/external-hacker-cyber-security-pack-flat-symbols-tanah-basah.png" alt="Hacker Profile Avatar" width="120" />
+  <h1>Hi 👋, I'm Anjalika Wickramasinghe</h1>
+  <p><b>Passionate IT Student | Exploring the Boundless World of Technology</b></p>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://img.shields.io/badge/Profile_views-229-blue?style=flat-square" alt="Profile Views" />
+  
+  <br />
+  <a href="https://github.com/kalanak41832">
+    <img src="https://img.shields.io/badge/FOLLOW_@KALANAK41832-343a40?style=flat-square" alt="Follow" />
+  </a>
+</div>
 
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
+<hr />
 
-        body {
-            background-color: var(--bg-color);
-            color: var(--text-main);
-            font-family: var(--font-family);
-            padding: 40px 20px;
-            display: flex;
-            justify-content: center;
-        }
+<!-- BIO SPLIT SECTION -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🔮 I'm currently working on: <b>innovative software solutions like the ElderCare mobile app, Learnio, and my personal portfolio (kalana.is-a.dev)</b></li>
+        <li>🧑‍🤝‍🧑 I'm looking to collaborate on: <b>creative web development projects and AI-driven tech solutions</b></li>
+        <li>🤝 I'm looking for help with: <b>advanced database systems and mastering modern web frameworks</b></li>
+        <li>🌱 I'm currently learning: <b>my BSc (Hons) in Software Engineering at CINEC Campus (focusing on Mobile Application Development, Web Architectures, Database Development & DSA)</b></li>
+      </ul>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <img src="https://img.icons8.com/illustrations/monochrome/400/web-development.png" style="background-color: #f4e04d; padding: 10px;" alt="Tech Workspace" width="100%" />
+    </td>
+  </tr>
+</table>
 
-        .container {
-            width: 100%;
-            max-width: 850px;
-        }
+<hr />
 
-        hr {
-            border: 0;
-            border-top: 1px solid var(--border-color);
-            margin: 25px 0;
-        }
+<!-- SOCIALS SECTION -->
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
 
-        /* --- Header Section --- */
-        .header {
-            text-align: center;
-            margin-bottom: 25px;
-        }
+<!-- TECH STACK SECTION -->
+<h3 align="center">💻 Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proto.io-101010?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sketch-F7A100?style=for-the-badge&logo=sketch&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+</p>
 
-        .avatar-container {
-            margin-bottom: 15px;
-        }
+<hr />
 
-        .avatar-container img {
-            width: 120px;
-            height: auto;
-        }
+<!-- GITHUB STATS CARDS SECTION -->
+<h3 align="center">📊 GitHub Stats</h3>
 
-        .header h1 {
-            font-size: 2.2rem;
-            font-weight: 600;
-            margin-bottom: 15px;
-            color: #ffffff;
-        }
+<div align="center">
+  <!-- Replace username=kalanak41832 with your real username if it differs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kalanak41832&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanak41832&theme=tokyonight" alt="GitHub Streak" height="160" />
+</div>
 
-        .header .subtitle {
-            font-size: 1.15rem;
-            font-weight: 600;
-            color: #ffffff;
-            margin-bottom: 15px;
-        }
+<br />
 
-        /* Counter and Badges */
-        .counter-badge {
-            background-color: #21262d;
-            border: 1px solid var(--border-color);
-            border-radius: 4px;
-            display: inline-flex;
-            font-size: 0.75rem;
-            overflow: hidden;
-            margin-bottom: 15px;
-        }
-
-        .counter-label {
-            background-color: #444;
-            color: #fff;
-            padding: 4px 8px;
-        }
-
-        .counter-value {
-            background-color: #007ec6;
-            color: #fff;
-            padding: 4px 8px;
-            font-weight: bold;
-        }
-
-        .follow-btn {
-            background-color: #343a40;
-            border: 1px solid var(--border-color);
-            color: #ffffff;
-            padding: 6px 16px;
-            font-size: 0.8rem;
-            font-weight: bold;
-            letter-spacing: 1px;
-            border-radius: 4px;
-            display: inline-block;
-            text-transform: uppercase;
-        }
-
-        /* --- Bio Layout Split --- */
-        .bio-grid {
-            display: grid;
-            grid-template-columns: 1.2fr 1fr;
-            gap: 30px;
-            align-items: center;
-            margin-top: 20px;
-        }
-
-        @media (max-width: 768px) {
-            .bio-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-
-        .bio-list {
-            list-style: none;
-        }
-
-        .bio-list li {
-            margin-bottom: 20px;
-            line-height: 1.6;
-            font-size: 0.95rem;
-        }
-
-        .bio-list strong {
-            color: #ffffff;
-        }
-
-        .bio-graphic img {
-            width: 100%;
-            border-radius: 4px;
-            display: block;
-        }
-
-        /* --- Global Grid Title Styling --- */
-        .section-title {
-            text-align: center;
-            font-size: 1.2rem;
-            font-weight: 600;
-            margin-bottom: 20px;
-            color: #ffffff;
-        }
-
-        /* --- Custom Badges Flexbox Layout --- */
-        .badge-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
-            justify-content: center;
-            margin-bottom: 25px;
-        }
-
-        .badge {
-            display: inline-flex;
-            align-items: center;
-            padding: 5px 10px;
-            font-size: 0.72rem;
-            font-weight: 800;
-            color: #ffffff;
-            border-radius: 3px;
-            letter-spacing: 0.5px;
-            text-transform: uppercase;
-        }
-
-        /* Connect Badge Brand Backgrounds */
-        .bg-facebook  { background-color: #1877F2; }
-        .bg-instagram { background-color: #E1306C; }
-        .bg-linkedin  { background-color: #0077B5; }
-        .bg-tiktok    { background-color: #000000; border: 1px solid #333; }
-        .bg-x         { background-color: #000000; border: 1px solid #333; }
-        .bg-email     { background-color: #D14836; }
-
-        /* Tech Stack Badge Backgrounds */
-        .bg-cpp         { background-color: #00599C; }
-        .bg-css3        { background-color: #1572B6; }
-        .bg-html5       { background-color: #E34F26; }
-        .bg-dart        { background-color: #0175C2; }
-        .bg-c           { background-color: #A8B9CC; color: #000; }
-        .bg-javascript  { background-color: #F7DF1E; color: #000; }
-        .bg-java        { background-color: #ED8B00; }
-        .bg-php         { background-color: #777BB4; }
-        .bg-terminal    { background-color: #4D4D4D; }
-        .bg-firebase    { background-color: #FFCA28; color: #000; }
-        .bg-oracle      { background-color: #F80000; }
-        .bg-gcloud      { background-color: #4285F4; }
-        .bg-nodejs      { background-color: #339933; }
-        .bg-nextjs      { background-color: #000000; border: 1px solid #333; }
-        .bg-web3        { background-color: #F16822; }
-        .bg-wordpress   { background-color: #21759B; }
-        .bg-tailwind    { background-color: #06B6D4; }
-        .bg-apache      { background-color: #D22128; }
-        .bg-nginx       { background-color: #009639; }
-        .bg-mysql       { background-color: #4479A1; }
-        .bg-postgres    { background-color: #4169E1; }
-        .bg-canva       { background-color: #00C4CC; }
-        .bg-figma       { background-color: #F24E1E; }
-        .bg-protoio     { background-color: #101010; }
-        .bg-sketch      { background-color: #F7A100; }
-        .bg-tensorflow  { background-color: #FF6F00; }
-        .bg-git         { background-color: #F05032; }
-        .bg-github      { background-color: #181717; }
-        .bg-gitlab      { background-color: #FC6D26; }
-        .bg-docker      { background-color: #2496ED; }
-        .bg-portfolio   { background-color: #8A2BE2; }
-        .bg-amd         { background-color: #ED1C24; }
-
-        /* --- GitHub Cards Flex & Layout Grid --- */
-        .stats-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 15px;
-            margin-bottom: 15px;
-        }
-
-        @media (max-width: 650px) {
-            .stats-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-
-        .stats-card {
-            background-color: var(--card-bg);
-            border: 1px solid var(--border-color);
-            border-radius: 6px;
-            padding: 22px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .stats-card h3 {
-            color: var(--accent-cyan);
-            font-size: 1.05rem;
-            margin-bottom: 18px;
-            font-weight: 600;
-        }
-
-        .stats-left p {
-            font-size: 0.88rem;
-            margin-bottom: 8px;
-            color: var(--accent-magenta);
-            font-weight: 500;
-        }
-
-        .stats-left p strong {
-            color: var(--text-main);
-            float: right;
-            margin-left: 35px;
-        }
-
-        /* Radial Ring Indicator Simulation */
-        .circle-container {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin-left: 10px;
-        }
-
-        .circle-ring {
-            width: 75px;
-            height: 75px;
-            border-radius: 50%;
-            border: 5px solid #161b22;
-            border-top-color: var(--accent-cyan);
-            border-right-color: var(--accent-cyan);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: bold;
-            font-size: 1.3rem;
-            color: var(--accent-magenta);
-        }
-
-        /* Streak Columns Details Layout */
-        .streak-row {
-            display: flex;
-            width: 100%;
-            justify-content: space-around;
-            text-align: center;
-        }
-
-        .streak-item {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            position: relative;
-        }
-
-        .streak-item:not(:last-child)::after {
-            content: "";
-            position: absolute;
-            right: -25px;
-            top: 15%;
-            height: 70%;
-            border-right: 1px solid var(--border-color);
-        }
-
-        .streak-num {
-            font-size: 1.8rem;
-            font-weight: bold;
-            color: var(--accent-cyan);
-        }
-
-        .streak-num.total { color: var(--accent-cyan); }
-        .streak-num.current { color: var(--accent-magenta); }
-        .streak-num.longest { color: var(--accent-cyan); }
-
-        .streak-label {
-            font-size: 0.72rem;
-            color: var(--accent-cyan);
-            margin-top: 5px;
-            font-weight: 500;
-        }
-        .streak-date {
-            font-size: 0.65rem;
-            color: var(--text-muted);
-            margin-top: 4px;
-        }
-
-        /* --- Language Progress Component Box --- */
-        .languages-card {
-            background-color: var(--card-bg);
-            border: 1px solid var(--border-color);
-            border-radius: 6px;
-            padding: 22px;
-            max-width: 480px;
-            margin: 0 auto 25px;
-        }
-
-        .languages-card h3 {
-            color: var(--accent-cyan);
-            font-size: 1.1rem;
-            margin-bottom: 15px;
-            font-weight: 600;
-        }
-
-        .progress-bar-wrapper {
-            display: flex;
-            height: 10px;
-            border-radius: 5px;
-            overflow: hidden;
-            background-color: #161b22;
-            margin: 15px 0 20px;
-        }
-
-        .progress-fill {
-            height: 100%;
-        }
-
-        .lang-legend-grid {
-            display: flex;
-            justify-content: flex-start;
-            gap: 20px;
-            flex-wrap: wrap;
-            font-size: 0.8rem;
-        }
-
-        .legend-pill {
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            color: var(--text-main);
-        }
-
-        .legend-dot {
-            width: 8px;
-            height: 8px;
-            border-radius: 50%;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-
-        <!-- Header Block Layout Context -->
-        <header class="header">
-            <div class="avatar-container">
-                <!-- Using a placeholder developer illustration matching your hacker avatar -->
-                <img src="https://img.icons8.com/illustrations/external-pack-flat-symbols-tanah-basah/120/external-hacker-cyber-security-pack-flat-symbols-tanah-basah.png" alt="Hacker Profile Avatar">
-            </div>
-            <h1>Hi 👋, I'm Kalana Neranjana</h1>
-            <p class="subtitle">Passionate IT Student | Exploring the Boundless World of Technology</p>
-            
-            <div>
-                <div class="counter-badge">
-                    <span class="counter-label">Profile views</span>
-                    <span class="counter-value">229</span>
-                </div>
-            </div>
-
-            <div>
-                <span class="follow-btn">Follow @kalanak41832</span>
-            </div>
-        </header>
-
-        <hr>
-
-        <!-- Profile Metadata Splitting Grid Context -->
-        <div class="bio-grid">
-            <ul class="bio-list">
-                <li>🔮 I'm currently working on: <strong>innovative software solutions like the ElderCare mobile app, Learnio, and my personal portfolio (kalana.is-a.dev)</strong></li>
-                <li>🧑‍🤝‍🧑 I'm looking to collaborate on: <strong>creative web development projects and AI-driven tech solutions</strong></li>
-                <li>🤝 I'm looking for help with: <strong>advanced database systems and mastering modern web frameworks</strong></li>
-                <li>🌱 I'm currently learning: <strong>my BSc (Hons) in Software Engineering at CINEC Campus (focusing on Web Architectures, SQA, & DSA)</strong></li>
-            </ul>
-            
-            <div class="bio-graphic">
-                <!-- Recreated your yellow technical system schematic diagram box vector -->
-                <img src="https://img.icons8.com/illustrations/monochrome/400/web-development.png" style="background-color: #f4e04d; padding: 10px;" alt="Tech Architecture Workspace Design">
-            </div>
-        </div>
-
-        <hr>
-
-        <!-- Social Media Section Badges -->
-        <h2 class="section-title">🌐 Connect with me</h2>
-        <div class="badge-container">
-            <span class="badge bg-facebook">Facebook</span>
-            <span class="badge bg-instagram">Instagram</span>
-            <span class="badge bg-linkedin">Linkedin</span>
-            <span class="badge bg-tiktok">TikTok</span>
-            <span class="badge bg-x">X</span>
-            <span class="badge bg-email">Email</span>
-        </div>
-
-        <!-- Comprehensive Tech Stack Section -->
-        <h2 class="section-title">💻 Tech Stack</h2>
-        <div class="badge-container">
-            <span class="badge bg-cpp">C++</span>
-            <span class="badge bg-css3">CSS3</span>
-            <span class="badge bg-html5">HTML5</span>
-            <span class="badge bg-dart">Dart</span>
-            <span class="badge bg-c">C</span>
-            <span class="badge bg-javascript">JavaScript</span>
-            <span class="badge bg-java">Java</span>
-            <span class="badge bg-php">PHP</span>
-            <span class="badge bg-terminal">Windows Terminal</span>
-            <span class="badge bg-firebase">Firebase</span>
-            <span class="badge bg-oracle">Oracle</span>
-            <span class="badge bg-gcloud">Google Cloud</span>
-            <span class="badge bg-nodejs">Node.js</span>
-            <span class="badge bg-nextjs">Next.js</span>
-            <span class="badge bg-web3">Web3.js</span>
-            <span class="badge bg-wordpress">WordPress</span>
-            <span class="badge bg-tailwind">Tailwind CSS</span>
-            <span class="badge bg-apache">Apache</span>
-            <span class="badge bg-nginx">Nginx</span>
-            <span class="badge bg-mysql">MySQL</span>
-            <span class="badge bg-postgres">Postgres</span>
-            <span class="badge bg-canva">Canva</span>
-            <span class="badge bg-figma">Figma</span>
-            <span class="badge bg-protoio">Proto.io</span>
-            <span class="badge bg-sketch">Sketch</span>
-            <span class="badge bg-tensorflow">TensorFlow</span>
-            <span class="badge bg-git">Git</span>
-            <span class="badge bg-github">GitHub</span>
-            <span class="badge bg-gitlab">GitLab</span>
-            <span class="badge bg-docker">Docker</span>
-            <span class="badge bg-portfolio">Portfolio</span>
-            <span class="badge bg-amd">AMD</span>
-        </div>
-
-        <hr>
-
-        <!-- GitHub Metrics Component Display Workspace -->
-        <h2 class="section-title">📊 GitHub Stats</h2>
-        
-        <div class="stats-grid">
-            <!-- Metric Values Card -->
-            <div class="stats-card">
-                <div class="stats-left">
-                    <h3>Kalana Neranjana's GitHub Stats</h3>
-                    <p>Total Stars Earned: <strong>0</strong></p>
-                    <p>Total Commits: <strong>61</strong></p>
-                    <p>Total PRs: <strong>14</strong></p>
-                    <p>Total Issues: <strong>0</strong></p>
-                    <p>Contributed to (last year): <strong>1</strong></p>
-                </div>
-                <div class="circle-container">
-                    <div class="circle-ring">C</div>
-                </div>
-            </div>
-
-            <!-- Streak Counter Values Card -->
-            <div class="stats-card">
-                <div class="streak-row">
-                    <div class="streak-item">
-                        <span class="streak-num total">74</span>
-                        <span class="streak-label">Total Contributions</span>
-                        <span class="streak-date">Aug 11, 2024 - Present</span>
-                    </div>
-                    <div class="streak-item">
-                        <span class="streak-num current">0</span>
-                        <span class="streak-label">Current Streak</span>
-                        <span class="streak-date">Jun 21</span>
-                    </div>
-                    <div class="streak-item">
-                        <span class="streak-num longest">3</span>
-                        <span class="streak-label">Longest Streak</span>
-                        <span class="streak-date">Jul 3, 2025 - Jul 5, 2025</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Most Used Languages Component Box -->
-        <div class="languages-card">
-            <h3>Most Used Languages</h3>
-            
-            <div class="progress-bar-wrapper">
-                <!-- Exact proportional alignment block setup matching data percentages -->
-                <div class="progress-fill" style="width: 73.36%; background-color: #ff5e62;"></div>
-                <div class="progress-fill" style="width: 14.37%; background-color: #f7df1e;"></div>
-                <div class="progress-fill" style="width: 12.27%; background-color: #8a2be2;"></div>
-            </div>
-
-            <div class="lang-legend-grid">
-                <div class="legend-pill">
-                    <span class="legend-dot" style="background-color: #ff5e62;"></span>
-                    <span>HTML 73.36%</span>
-                </div>
-                <div class="legend-pill">
-                    <span class="legend-dot" style="background-color: #f7df1e;"></span>
-                    <span>JavaScript 14.37%</span>
-                </div>
-                <div class="legend-pill">
-                    <span class="legend-dot" style="background-color: #8a2be2;"></span>
-                    <span>CSS 12.26%</span>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
-</body>
-</html>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanak41832&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+</div>
