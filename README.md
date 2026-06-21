@@ -8,8 +8,7 @@
   <img src="https://img.shields.io/badge/Profile_views-229-blue?style=flat-square" alt="Profile Views" />
   
   <br />
-  <a href="https://github.com/kalanak41832">
-    <img src="https://img.shields.io/badge/FOLLOW_@KALANAK41832-343a40?style=flat-square" alt="Follow" />
+  <a href="https://github.com/Anjalika-Tharushee">
   </a>
 </div>
 
@@ -20,10 +19,13 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>🔮 I'm currently working on: <b>innovative software solutions like the ElderCare mobile app, Learnio, and my personal portfolio (kalana.is-a.dev)</b></li>
-        <li>🧑‍🤝‍🧑 I'm looking to collaborate on: <b>creative web development projects and AI-driven tech solutions</b></li>
-        <li>🤝 I'm looking for help with: <b>advanced database systems and mastering modern web frameworks</b></li>
-        <li>🌱 I'm currently learning: <b>my BSc (Hons) in Software Engineering at CINEC Campus (focusing on Mobile Application Development, Web Architectures, Database Development & DSA)</b></li>
+        <li></li><br>Hi 👋, I'm Anjalie Wickramasinghe</ul>
+      <br>Transforming ideas into mobile & web experiences</ul>
+      <br>Mobile & Web Developer from Sri Lanka.<br>Undergraduate at CINEC Campus.</ul>
+      <br>I'm currently working with C, HTML, CSS, Python and JavaScirpt.</ul>
+      <br>Ask me about Web Development, Mobile Application & Networking<br></ul>
+      <br>📫 Reach me at: anjuwickramasinghe71@gmail.com<br></ul>
+      <br>
       </ul>
     </td>
     <td width="40%" valign="center" align="center">
